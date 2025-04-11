@@ -2,6 +2,7 @@
 
 ![PyPI version](https://img.shields.io/pypi/v/reversible-anonymizer)
 ![Python versions](https://img.shields.io/pypi/pyversions/reversible-anonymizer)
+[![PyPI Downloads](https://static.pepy.tech/badge/reversible-anonymizer)](https://pepy.tech/projects/reversible-anonymizer)
 ![License](https://img.shields.io/pypi/l/reversible-anonymizer)
 
 An enterprise-grade Python package for reversible text anonymization using Google Cloud services.
