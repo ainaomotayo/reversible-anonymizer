@@ -298,12 +298,7 @@ The package provides custom exceptions:
 - Optimize info types: Select only the info types you need
 
 ## Contributing
-Contributions are welcome! Please feel free to submit a pull request.
-1. Fork the repository
-2. Create your feature branch (git checkout -b feature/amazing-feature)
-3. Commit your changes (git commit -m 'Add some amazing feature')
-4. Push to the branch (git push origin feature/amazing-feature)
-5. Open a Pull Request
+Contributions are welcome! Please feel free to reachout to me via email: ainaomotayo@secureaiguard.com to gain access to the main repo. 
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
