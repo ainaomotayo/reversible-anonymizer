@@ -1,0 +1,2 @@
+[console_scripts]
+anonymizer = reversible_anonymizer.cli:main
