@@ -37,16 +37,3 @@ __all__ = [
     "ConfigurationError",
     "AnonymizationResult",
 ]
-
-
-# """Reversible Anonymizer package for text anonymization using Google Cloud services."""
-# from .anonymizer import ReversibleAnonymizer
-# from .exceptions import (
-#     ServiceNotEnabledError,
-#     AnonymizationError,
-#     DeAnonymizationError
-# )
-#
-# __version__ = "0.1.0"
-# __all__ = ["ReversibleAnonymizer", "ServiceNotEnabledError",
-#            "AnonymizationError", "DeAnonymizationError"]
