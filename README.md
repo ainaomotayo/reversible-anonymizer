@@ -14,7 +14,7 @@ Reversible Anonymizer provides a powerful, scalable solution for detecting and r
 
 ### Key features:
 
-- **Complete Google DLP InfoType Support**: Over 100 pre-configured detectors for PII, financial data, healthcare information, and more
+- **Complete Google DLP InfoType Support**: Over 200 pre-configured detectors for PII, financial data, healthcare information, and more
 - **Consistent Anonymization**: Name parts and repeated information anonymized consistently
 - **Multiple Cache Strategies**: In-memory LRU cache and Google Cloud Memcache support
 - **Asynchronous Storage**: High throughput processing with asynchronous storage updates
